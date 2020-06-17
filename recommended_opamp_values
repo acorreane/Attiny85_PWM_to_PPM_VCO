@@ -1,0 +1,3 @@
+//tested for 250 Hz PWM
+//R1 = 5K6
+//C1 = 470u
